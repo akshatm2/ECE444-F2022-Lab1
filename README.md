@@ -18,3 +18,7 @@ https://github.com/VardhanYash/ECE444-F2022-Lab1
 ![image](https://user-images.githubusercontent.com/105562175/191144857-a541df6b-865e-412f-a0cb-ebabb99c3420.png)
 ## Activity 6
 https://github.com/akshatm2/ECE444-F2022-EP
+## Activity 7
+<img width="1271" alt="image" src="https://user-images.githubusercontent.com/105562175/191386976-86e42fd0-a99e-43f4-b329-542af06d19af.png">
+<img width="328" alt="image" src="https://user-images.githubusercontent.com/105562175/191387441-6fffa4fb-bc10-4b07-863c-8a073cc247bb.png">
+
