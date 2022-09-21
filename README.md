@@ -20,5 +20,8 @@ https://github.com/VardhanYash/ECE444-F2022-Lab1
 https://github.com/akshatm2/ECE444-F2022-EP
 ## Activity 7
 <img width="1271" alt="image" src="https://user-images.githubusercontent.com/105562175/191386976-86e42fd0-a99e-43f4-b329-542af06d19af.png">
-<img width="328" alt="image" src="https://user-images.githubusercontent.com/105562175/191387441-6fffa4fb-bc10-4b07-863c-8a073cc247bb.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105562175/191387441-6fffa4fb-bc10-4b07-863c-8a073cc247bb.png">
+## Activity 8
+<img width="628" alt="image" src="https://user-images.githubusercontent.com/105562175/191388504-136d2d47-5549-4c2d-ad83-33e618b21aba.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105562175/191388657-cc3556ef-a09d-47ed-a5e6-0ee2c82504df.png">
 
